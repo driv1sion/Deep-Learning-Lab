@@ -9,6 +9,7 @@ This directory explores the application of Recurrent Neural Networks (RNNs), Lon
   - [1. Time-Series Classification (UCI HAR)](#1-time-series-classification-uci-har)
   - [2. Video Action Recognition](#2-video-action-recognition)
   - [3. Sequence-to-Sequence (Reversal)](#3-sequence-to-sequence-reversal)
+- [Reproducibility](#reproducibility)
 - [Results](#results)
   - [Model Comparisons](#model-comparisons)
   - [Advanced Architectures](#advanced-architectures)
