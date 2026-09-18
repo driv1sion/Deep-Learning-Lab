@@ -1,4 +1,4 @@
-# Deep Learning Laboratory: Experiment 3 - Convolutional Neural Network (CNN)
+# Convolutional Neural Network (CNN) for Image Classification
 
 This repository contains the source code and experimental results for **Experiment 3** of the Deep Learning Laboratory course. The experiment focuses on designing and implementing Convolutional Neural Networks (CNNs) for image classification tasks using the TensorFlow/Keras deep learning framework.
 

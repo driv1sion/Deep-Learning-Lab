@@ -1,4 +1,4 @@
-# Deep Learning Laboratory: Experiment 2
+# Multi-Layer Perceptron (MLP) for Multi-Class Classification
 
 This repository contains the source code and experimental results for Experiment 2 of the Deep Learning Laboratory (CS3807) course. It includes implementations for a Multi-Layer Perceptron (MLP) on the Fashion-MNIST dataset and an implementation of a Multi-Layer Perceptron from scratch for the XOR logic gate.
 
