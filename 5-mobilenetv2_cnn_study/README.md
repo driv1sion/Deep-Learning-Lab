@@ -10,24 +10,9 @@ The notebook conducts an extensive study on CNN design choices including weight 
 .
 ├── README.md
 ├── requirements.txt
-├── report5.pdf
+├── report.pdf
 ├── mobilenetv2_cnn_study.ipynb
 └── images/
-    ├── 1_weight_init_loss.png
-    ├── 2_weight_init_accuracy.png
-    ├── 3_regularization_accuracy.png
-    ├── 4_regularization_loss.png
-    ├── 5_batch_normalization.png
-    ├── 6_optimizers_loss.png
-    ├── 7_optimizers_accuracy.png
-    ├── 8_learning_rate.png
-    ├── 9_batch_size.png
-    ├── 10_dropout_rate.png
-    ├── 11_feature_extraction_vs_finetuning.png
-    ├── 12_transfer_learning_loss.png
-    ├── 13_cross_validation_accuracy.png
-    ├── 14_confusion_matrix.png
-    └── 15_misclassified_images.png
 ```
 
 ## Main Notebook
@@ -158,24 +143,6 @@ The notebook writes the following visual outputs to `images/`:
 | `images/13_cross_validation_accuracy.png` | 5-Fold Cross-Validation Accuracy across configurations |
 | `images/14_confusion_matrix.png` | Confusion matrix over the independent test set |
 | `images/15_misclassified_images.png` | Representative examples of incorrect predictions |
-
-The final notebook cell creates:
-
-```text
-report_images.zip
-```
-
-This archive is generated from the current contents of the `images/` directory. Result CSV tables are also exported to `results/`.
-
-## Report
-
-The folder also includes:
-
-```text
-report5.pdf
-```
-
-Use this PDF as the written report for the experiment if you need a submitted or shareable document alongside the executable notebook.
 
 ## Setup
 
