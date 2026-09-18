@@ -125,16 +125,7 @@ Deep-Learning-Lab/
 ├── cnn.ipynb
 ├── report.pdf
 ├── requirements.txt
-│
 └── images/
-    ├── sample_images.png
-    ├── class_distribution.png
-    ├── training_accuracy.png
-    ├── training_loss.png
-    ├── confusion_matrix.png
-    ├── feature_maps.png
-    ├── pooling_comparison.png
-    └── cnn_architecture.png
 ```
 
 ---

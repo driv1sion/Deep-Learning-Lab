@@ -13,14 +13,6 @@ The notebook uses an ImageNet-pretrained ResNet50 convolutional base, adds a sma
 ├── report.pdf
 ├── resnet50.ipynb
 └── images/
-    ├── accuracy_plot.png
-    ├── confusion_matrix.png
-    ├── finetune_accuracy_plot.png
-    ├── finetune_loss_plot.png
-    ├── hyperparameter_study.png
-    ├── loss_plot.png
-    ├── misclassified_images.png
-    └── sample_images.png
 ```
 
 ## Main Notebook
@@ -184,23 +176,6 @@ The notebook writes the following visual outputs to `images/`:
 | `images/misclassified_images.png` | Ten examples of incorrect predictions |
 | `images/hyperparameter_study.png` | Bar charts comparing hyperparameter settings |
 
-The final notebook cell creates:
-
-```text
-images.zip
-```
-
-This archive is generated from the current contents of the `images/` directory.
-
-## Report
-
-The folder also includes:
-
-```text
-report.pdf
-```
-
-Use this PDF as the written report for the experiment if you need a submitted or shareable document alongside the executable notebook.
 
 ## Setup
 
