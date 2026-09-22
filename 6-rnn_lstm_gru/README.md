@@ -32,6 +32,19 @@ pip install -r requirements.txt
 
 ---
 
+## Project Structure
+
+```text
+6-rnn_lstm_gru/
+├── images/               # Directory containing all generated plots and visualizations
+├── README.md             # Project documentation (this file)
+├── report.pdf            # Detailed report of the experiments and findings
+├── requirements.txt      # List of dependencies required to run the code
+└── rnn-lstm-gru.ipynb    # Main Jupyter notebook containing all implementations and experiments
+```
+
+---
+
 ## Tasks & Architectures
 
 ### 1. Time-Series Classification (UCI HAR)
