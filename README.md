@@ -20,6 +20,10 @@ The project is structured on a weekly basis. Each folder corresponds to a specif
 
 * **`5-mobilenetv2-cnn-study/`**: Week 5 – MobileNetV2 transfer learning and CNN study using the Oxford-IIIT Pet dataset, including hyperparameter analysis, feature extraction, fine-tuning, 5-fold stratified cross-validation, and final model evaluation.
 
+* **`6-rnn_lstm_gru/`**: Week 6 – Recurrent Neural Networks including SimpleRNN, LSTM, and GRU for time-series classification, video action recognition, and sequence-to-sequence learning.
+
+* **`7_ae/`**: Week 7 – Autoencoders including Fully Connected, Convolutional, Denoising, and Variational Autoencoders for dimensionality reduction, denoising, and generative modeling on MNIST.
+
 - *(Future weekly assignments will be appended here in their respective numbered folders)*
 
 ## Standard Folder Layout
